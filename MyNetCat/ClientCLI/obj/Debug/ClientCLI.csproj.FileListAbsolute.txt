@@ -1,0 +1,16 @@
+C:\Users\epita-student\Desktop\MyNetCat1\MyNetCat\ClientCLI\bin\Debug\ClientCLI.exe.config
+C:\Users\epita-student\Desktop\MyNetCat1\MyNetCat\ClientCLI\bin\Debug\ClientCLI.exe
+C:\Users\epita-student\Desktop\MyNetCat1\MyNetCat\ClientCLI\bin\Debug\ClientCLI.pdb
+C:\Users\epita-student\Desktop\MyNetCat1\MyNetCat\ClientCLI\bin\Debug\LibNetCat.dll
+C:\Users\epita-student\Desktop\MyNetCat1\MyNetCat\ClientCLI\bin\Debug\LibNetCat.pdb
+C:\Users\epita-student\Desktop\MyNetCat1\MyNetCat\ClientCLI\obj\Debug\ClientCLI.csprojResolveAssemblyReference.cache
+C:\Users\epita-student\Desktop\MyNetCat1\MyNetCat\ClientCLI\obj\Debug\ClientCLI.exe
+C:\Users\epita-student\Desktop\MyNetCat1\MyNetCat\ClientCLI\obj\Debug\ClientCLI.pdb
+C:\Users\epita-student\Desktop\MyNetCat\MyNetCat\ClientCLI\bin\Debug\ClientCLI.exe.config
+C:\Users\epita-student\Desktop\MyNetCat\MyNetCat\ClientCLI\bin\Debug\ClientCLI.exe
+C:\Users\epita-student\Desktop\MyNetCat\MyNetCat\ClientCLI\bin\Debug\ClientCLI.pdb
+C:\Users\epita-student\Desktop\MyNetCat\MyNetCat\ClientCLI\bin\Debug\LibNetCat.dll
+C:\Users\epita-student\Desktop\MyNetCat\MyNetCat\ClientCLI\bin\Debug\LibNetCat.pdb
+C:\Users\epita-student\Desktop\MyNetCat\MyNetCat\ClientCLI\obj\Debug\ClientCLI.csprojResolveAssemblyReference.cache
+C:\Users\epita-student\Desktop\MyNetCat\MyNetCat\ClientCLI\obj\Debug\ClientCLI.exe
+C:\Users\epita-student\Desktop\MyNetCat\MyNetCat\ClientCLI\obj\Debug\ClientCLI.pdb
